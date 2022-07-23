@@ -1,0 +1,23 @@
+{
+  "name": "suffah-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suffah",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.3",
+    "helmet": "^5.0.2",
+    "morgan": "^1.10.0",
+    "pg": "^8.7.1",
+    "pg-promise": "^10.11.1"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
+
